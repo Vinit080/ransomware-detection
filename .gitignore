@@ -1,23 +1,25 @@
-# Environments
+# Python
 venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
 env/
 .env
+*.db
 
 # Node
 node_modules/
 dist/
-.npm/
+.next/
 
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-
-# ChromaDB
-chroma_db/
-
-# IDEs and OS
+# IDEs and Editors
 .vscode/
 .idea/
+*.swp
+*.swo
+
+# OS
 .DS_Store
+Thumbs.db
