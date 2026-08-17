@@ -1,0 +1,23 @@
+# Environments
+venv/
+env/
+.env
+
+# Node
+node_modules/
+dist/
+.npm/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ChromaDB
+chroma_db/
+
+# IDEs and OS
+.vscode/
+.idea/
+.DS_Store
