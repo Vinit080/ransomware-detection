@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: ankane/pgvector:latest # PostgreSQL with pgvector extension for RAG
+    container_name: ransomshield-db
+    environment:
+      POSTGRES_USER: ransomshield_user
+      POSTGRES_PASSWORD: secure_password_123
+      POSTGRES_DB: ransomshield
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ransomshield_user -d ransomshield"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  redis:
+    image: redis:alpine
+    container_name: ransomshield-redis
+    ports:
+      - "6379:6379"
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  postgres_data:

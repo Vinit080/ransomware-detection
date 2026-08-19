@@ -1,0 +1,4301 @@
+{
+    "description": "Synthetic Dataset for Table III Evaluation",
+    "samples": [
+        {
+            "id": "benign-000-4b60076a",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970000.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970001.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970002.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970003.0,
+                    "data": {
+                        "entropy": 4.153825853632449,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-001-aac2bb41",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970010.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970011.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970012.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970013.0,
+                    "data": {
+                        "entropy": 3.5187425994852504,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-002-8df0a94c",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970020.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970021.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970022.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970023.0,
+                    "data": {
+                        "entropy": 4.74499891385597,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-003-610f60ed",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970030.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970031.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970032.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970033.0,
+                    "data": {
+                        "entropy": 3.000809635059607,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-004-00a86214",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970040.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970041.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970042.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970043.0,
+                    "data": {
+                        "entropy": 3.7505569157475116,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-005-dcaa03ba",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970050.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970051.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970052.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970053.0,
+                    "data": {
+                        "entropy": 3.2264259035235368,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-006-e88683f8",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970060.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970061.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970062.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970063.0,
+                    "data": {
+                        "entropy": 3.4689103634510907,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-007-c2dff000",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970070.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970071.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970072.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970073.0,
+                    "data": {
+                        "entropy": 4.139377757049217,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-008-d439551e",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970080.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970081.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970082.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970083.0,
+                    "data": {
+                        "entropy": 3.733673626093136,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-009-44ffb942",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970090.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970091.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970092.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970093.0,
+                    "data": {
+                        "entropy": 4.218165393963071,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-010-ccc0be38",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970100.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970101.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970102.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970103.0,
+                    "data": {
+                        "entropy": 3.6291016475643314,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-011-a973a4d2",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970110.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970111.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970112.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970113.0,
+                    "data": {
+                        "entropy": 3.68978318716428,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-012-cd6f0462",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970120.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970121.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970122.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970123.0,
+                    "data": {
+                        "entropy": 3.2003724785661687,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-013-9acd2786",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970130.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970131.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970132.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970133.0,
+                    "data": {
+                        "entropy": 3.098400900175129,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-014-7a3ca0e3",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970140.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970141.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970142.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970143.0,
+                    "data": {
+                        "entropy": 3.4898067595199644,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-015-030167fc",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970150.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970151.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970152.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970153.0,
+                    "data": {
+                        "entropy": 4.256017962305365,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-016-79ae18ad",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970160.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970161.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970162.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970163.0,
+                    "data": {
+                        "entropy": 3.0997122263498573,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-017-bbd37eb4",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970170.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970171.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970172.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970173.0,
+                    "data": {
+                        "entropy": 4.765302668267214,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-018-f7febd53",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970180.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970181.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970182.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970183.0,
+                    "data": {
+                        "entropy": 3.327322814052163,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-019-e1c3d4e7",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970190.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970191.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970192.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970193.0,
+                    "data": {
+                        "entropy": 4.90728737088861,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-020-736f4a66",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970200.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970201.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970202.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970203.0,
+                    "data": {
+                        "entropy": 4.955359553132254,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-021-0d02e69d",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970210.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970211.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970212.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970213.0,
+                    "data": {
+                        "entropy": 3.1762906512415654,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-022-6ce04268",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970220.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970221.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970222.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970223.0,
+                    "data": {
+                        "entropy": 3.3518606741785018,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-023-9c106609",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970230.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970231.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970232.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970233.0,
+                    "data": {
+                        "entropy": 4.303995309672183,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-024-40cc6879",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970240.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970241.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970242.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970243.0,
+                    "data": {
+                        "entropy": 4.842527281619265,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-025-261834d8",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970250.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970251.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970252.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970253.0,
+                    "data": {
+                        "entropy": 3.6845760728867445,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-026-ca08185d",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970260.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970261.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970262.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970263.0,
+                    "data": {
+                        "entropy": 4.914389571841332,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-027-81488990",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970270.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970271.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970272.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970273.0,
+                    "data": {
+                        "entropy": 3.1436910453425777,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-028-47dc46f6",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970280.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970281.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970282.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970283.0,
+                    "data": {
+                        "entropy": 3.9649092528574528,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-029-1c7d1188",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970290.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970291.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970292.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970293.0,
+                    "data": {
+                        "entropy": 4.3551689735897465,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-030-58028ad4",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970300.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970301.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970302.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970303.0,
+                    "data": {
+                        "entropy": 4.879161849440237,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-031-2d075c7d",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970310.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970311.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970312.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970313.0,
+                    "data": {
+                        "entropy": 4.7324182364247624,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-032-813cc1e6",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970320.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970321.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970322.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970323.0,
+                    "data": {
+                        "entropy": 3.3798242187504086,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-033-463581c6",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970330.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970331.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970332.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970333.0,
+                    "data": {
+                        "entropy": 3.0983358134072243,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-034-4c69e316",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970340.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970341.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970342.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970343.0,
+                    "data": {
+                        "entropy": 3.6894913544147343,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-035-64d6df0e",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970350.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970351.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970352.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970353.0,
+                    "data": {
+                        "entropy": 4.668490277738534,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-036-58b4763e",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970360.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970361.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970362.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970363.0,
+                    "data": {
+                        "entropy": 4.865438164055737,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-037-aac764ba",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970370.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970371.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970372.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970373.0,
+                    "data": {
+                        "entropy": 4.46328316746318,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-038-6616b082",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970380.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970381.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970382.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970383.0,
+                    "data": {
+                        "entropy": 4.265351551639145,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-039-1ed780de",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970390.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970391.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970392.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970393.0,
+                    "data": {
+                        "entropy": 4.914497018834407,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-040-c6fe032c",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970400.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970401.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970402.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970403.0,
+                    "data": {
+                        "entropy": 4.0205911288934475,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-041-e99279e3",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970410.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970411.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970412.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970413.0,
+                    "data": {
+                        "entropy": 4.531154740592557,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-042-220f7a1a",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970420.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970421.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970422.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970423.0,
+                    "data": {
+                        "entropy": 3.9319381686687405,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-043-bc791e87",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970430.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970431.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970432.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970433.0,
+                    "data": {
+                        "entropy": 4.714057360751251,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-044-ec3a27e6",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970440.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970441.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970442.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970443.0,
+                    "data": {
+                        "entropy": 4.9556287712342035,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-045-13e126fb",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970450.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970451.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970452.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970453.0,
+                    "data": {
+                        "entropy": 4.31377485361965,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-046-376a85f5",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970460.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970461.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970462.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970463.0,
+                    "data": {
+                        "entropy": 4.819546264770814,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-047-fab4cb91",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970470.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970471.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970472.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970473.0,
+                    "data": {
+                        "entropy": 4.9002934679254,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-048-d69e13b6",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970480.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970481.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970482.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970483.0,
+                    "data": {
+                        "entropy": 3.1508118092798014,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "benign-049-46c1a122",
+            "ground_truth": "BENIGN",
+            "true_attck_techniques": [],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970490.0,
+                    "data": {
+                        "command_line": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970491.0,
+                    "data": {
+                        "query": "google.com"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970492.0,
+                    "data": {
+                        "command_line": "explorer.exe"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970493.0,
+                    "data": {
+                        "entropy": 4.141520729600225,
+                        "file_path": "C:\\Users\\admin\\Documents\\notes.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "malware-000-b64af31d",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486",
+                "T1562"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970500.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970501.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970502.0,
+                    "data": {
+                        "entropy": 7.7998184822735865,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_15.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970503.0,
+                    "data": {
+                        "entropy": 7.953687250349736,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_112.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970504.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970505.0,
+                    "data": {
+                        "command_line": "wevtutil cl System"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": true
+        },
+        {
+            "id": "malware-001-e435b9b2",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486",
+                "T1562"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970510.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970511.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970512.0,
+                    "data": {
+                        "entropy": 7.915952200971879,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_49.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970513.0,
+                    "data": {
+                        "entropy": 7.86946439032632,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_150.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970514.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970515.0,
+                    "data": {
+                        "command_line": "wevtutil cl System"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": true
+        },
+        {
+            "id": "malware-002-086fc1ec",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486",
+                "T1562"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970520.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970521.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970522.0,
+                    "data": {
+                        "entropy": 7.6099072116129856,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_92.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970523.0,
+                    "data": {
+                        "entropy": 7.969608271288927,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_167.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970524.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970525.0,
+                    "data": {
+                        "command_line": "wevtutil cl System"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": true
+        },
+        {
+            "id": "malware-003-ae2c6391",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486",
+                "T1562"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970530.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970531.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970532.0,
+                    "data": {
+                        "entropy": 7.657696514293679,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_80.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970533.0,
+                    "data": {
+                        "entropy": 7.9748112464024645,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_188.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970534.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970535.0,
+                    "data": {
+                        "command_line": "wevtutil cl System"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": true
+        },
+        {
+            "id": "malware-004-1a60b6aa",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486",
+                "T1562"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970540.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970541.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970542.0,
+                    "data": {
+                        "entropy": 7.715616461673452,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_5.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970543.0,
+                    "data": {
+                        "entropy": 7.9360889928242955,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_143.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970544.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970545.0,
+                    "data": {
+                        "command_line": "wevtutil cl System"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": true
+        },
+        {
+            "id": "malware-005-a38038a3",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486",
+                "T1562"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970550.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970551.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970552.0,
+                    "data": {
+                        "entropy": 7.754855225058142,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_12.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970553.0,
+                    "data": {
+                        "entropy": 7.808195355118378,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_180.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970554.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970555.0,
+                    "data": {
+                        "command_line": "wevtutil cl System"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": true
+        },
+        {
+            "id": "malware-006-7fc079c8",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486",
+                "T1562"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970560.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970561.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970562.0,
+                    "data": {
+                        "entropy": 7.607764400271221,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_45.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970563.0,
+                    "data": {
+                        "entropy": 7.836133136487398,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_182.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970564.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970565.0,
+                    "data": {
+                        "command_line": "wevtutil cl System"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": true
+        },
+        {
+            "id": "malware-007-3b91c444",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486",
+                "T1562"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970570.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970571.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970572.0,
+                    "data": {
+                        "entropy": 7.965462530085778,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_98.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970573.0,
+                    "data": {
+                        "entropy": 7.865962010406312,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_113.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970574.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970575.0,
+                    "data": {
+                        "command_line": "wevtutil cl System"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": true
+        },
+        {
+            "id": "malware-008-37056120",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486",
+                "T1562"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970580.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970581.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970582.0,
+                    "data": {
+                        "entropy": 7.915932496038529,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_75.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970583.0,
+                    "data": {
+                        "entropy": 7.8921246046380995,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_113.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970584.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970585.0,
+                    "data": {
+                        "command_line": "wevtutil cl System"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": true
+        },
+        {
+            "id": "malware-009-91f43834",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486",
+                "T1562"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970590.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970591.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970592.0,
+                    "data": {
+                        "entropy": 7.797390068282718,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_67.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970593.0,
+                    "data": {
+                        "entropy": 7.995420252614619,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_197.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970594.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970595.0,
+                    "data": {
+                        "command_line": "wevtutil cl System"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": true
+        },
+        {
+            "id": "malware-010-8480df6c",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486",
+                "T1562"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970600.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970601.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970602.0,
+                    "data": {
+                        "entropy": 7.92437306694763,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_4.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970603.0,
+                    "data": {
+                        "entropy": 7.818195154579283,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_108.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970604.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970605.0,
+                    "data": {
+                        "command_line": "wevtutil cl System"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": true
+        },
+        {
+            "id": "malware-011-50fd415c",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486",
+                "T1562"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970610.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970611.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970612.0,
+                    "data": {
+                        "entropy": 7.721298349505027,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_23.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970613.0,
+                    "data": {
+                        "entropy": 7.855960959989589,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_180.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970614.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970615.0,
+                    "data": {
+                        "command_line": "wevtutil cl System"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": true
+        },
+        {
+            "id": "malware-012-b31871c1",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970620.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970621.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970622.0,
+                    "data": {
+                        "entropy": 7.894660266540766,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_12.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970623.0,
+                    "data": {
+                        "entropy": 7.959175348363209,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_131.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970624.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": false
+        },
+        {
+            "id": "malware-013-dbbc75cb",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970630.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970631.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970632.0,
+                    "data": {
+                        "entropy": 7.570254070218571,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_69.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970633.0,
+                    "data": {
+                        "entropy": 7.901542889289848,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_167.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970634.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": false
+        },
+        {
+            "id": "malware-014-b00ea2ce",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970640.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970641.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970642.0,
+                    "data": {
+                        "entropy": 7.582653962378562,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_79.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970643.0,
+                    "data": {
+                        "entropy": 7.908640974669292,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_162.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970644.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": false
+        },
+        {
+            "id": "malware-015-4d633f68",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970650.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970651.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970652.0,
+                    "data": {
+                        "entropy": 7.752202182204595,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_65.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970653.0,
+                    "data": {
+                        "entropy": 7.924813286017386,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_137.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970654.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": false
+        },
+        {
+            "id": "malware-016-6978a541",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970660.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970661.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970662.0,
+                    "data": {
+                        "entropy": 7.748950804652504,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_17.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970663.0,
+                    "data": {
+                        "entropy": 7.850212784569905,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_170.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970664.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": false
+        },
+        {
+            "id": "malware-017-6317f007",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970670.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970671.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970672.0,
+                    "data": {
+                        "entropy": 7.9795338766949415,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_82.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970673.0,
+                    "data": {
+                        "entropy": 7.913378943699928,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_194.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970674.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": false
+        },
+        {
+            "id": "malware-018-13e9120f",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970680.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970681.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970682.0,
+                    "data": {
+                        "entropy": 7.928096653565682,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_8.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970683.0,
+                    "data": {
+                        "entropy": 7.98163438068013,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_145.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970684.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": false
+        },
+        {
+            "id": "malware-019-109a1b83",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970690.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970691.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970692.0,
+                    "data": {
+                        "entropy": 7.734273188527289,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_72.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970693.0,
+                    "data": {
+                        "entropy": 7.9390194166189,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_176.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970694.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": false
+        },
+        {
+            "id": "malware-020-a435304a",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970700.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970701.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970702.0,
+                    "data": {
+                        "entropy": 7.7969664691032206,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_94.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970703.0,
+                    "data": {
+                        "entropy": 7.922005579898309,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_105.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970704.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": false
+        },
+        {
+            "id": "malware-021-6608a002",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970710.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970711.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970712.0,
+                    "data": {
+                        "entropy": 7.984329460155677,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_60.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970713.0,
+                    "data": {
+                        "entropy": 7.850236404713992,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_155.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970714.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": false
+        },
+        {
+            "id": "malware-022-845c92f3",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970720.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970721.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970722.0,
+                    "data": {
+                        "entropy": 7.811652854225175,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_9.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970723.0,
+                    "data": {
+                        "entropy": 7.994817859466781,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_167.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970724.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": false
+        },
+        {
+            "id": "malware-023-fd13e5be",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970730.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970731.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970732.0,
+                    "data": {
+                        "entropy": 7.771779045560298,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_24.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970733.0,
+                    "data": {
+                        "entropy": 7.821129994042492,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_110.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970734.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": false
+        },
+        {
+            "id": "malware-024-1f599da8",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970740.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970741.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970742.0,
+                    "data": {
+                        "entropy": 7.972787324140592,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_7.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970743.0,
+                    "data": {
+                        "entropy": 7.848161777746597,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_148.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970744.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": false
+        },
+        {
+            "id": "malware-025-64bdf676",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970750.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970751.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970752.0,
+                    "data": {
+                        "entropy": 7.605155492351379,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_46.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970753.0,
+                    "data": {
+                        "entropy": 7.833914132130311,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_189.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970754.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": false
+        },
+        {
+            "id": "malware-026-716b049d",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970760.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970761.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970762.0,
+                    "data": {
+                        "entropy": 7.989947269645182,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_65.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970763.0,
+                    "data": {
+                        "entropy": 7.858224757687278,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_148.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970764.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": false
+        },
+        {
+            "id": "malware-027-e104a94b",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970770.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970771.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970772.0,
+                    "data": {
+                        "entropy": 7.9466336330094824,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_9.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970773.0,
+                    "data": {
+                        "entropy": 7.9219434504467,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_126.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970774.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": false
+        },
+        {
+            "id": "malware-028-1bdbceff",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970780.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970781.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970782.0,
+                    "data": {
+                        "entropy": 7.686486753574628,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_84.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970783.0,
+                    "data": {
+                        "entropy": 7.835122146950743,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_147.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970784.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": false
+        },
+        {
+            "id": "malware-029-b4f5bf4b",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970790.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970791.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970792.0,
+                    "data": {
+                        "entropy": 7.91890504025654,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_64.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970793.0,
+                    "data": {
+                        "entropy": 7.981128224095788,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_190.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970794.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": false
+        },
+        {
+            "id": "malware-030-a8bc80b6",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970800.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970801.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970802.0,
+                    "data": {
+                        "entropy": 7.875133545922888,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_13.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970803.0,
+                    "data": {
+                        "entropy": 7.812209121309053,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_194.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970804.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": false
+        },
+        {
+            "id": "malware-031-452418cf",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970810.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970811.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970812.0,
+                    "data": {
+                        "entropy": 7.9507122008496625,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_83.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970813.0,
+                    "data": {
+                        "entropy": 7.848232551283534,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_182.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970814.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": false
+        },
+        {
+            "id": "malware-032-3e5e4e7c",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970820.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970821.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970822.0,
+                    "data": {
+                        "entropy": 7.66049534865485,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_15.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970823.0,
+                    "data": {
+                        "entropy": 7.828076983481982,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_160.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970824.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": false
+        },
+        {
+            "id": "malware-033-e6282178",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970830.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970831.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970832.0,
+                    "data": {
+                        "entropy": 7.690131133508413,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_59.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970833.0,
+                    "data": {
+                        "entropy": 7.862875157781769,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_197.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970834.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": false
+        },
+        {
+            "id": "malware-034-2f72ef66",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970840.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970841.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970842.0,
+                    "data": {
+                        "entropy": 7.674216017350555,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_25.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970843.0,
+                    "data": {
+                        "entropy": 7.818738217692764,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_113.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970844.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": false
+        },
+        {
+            "id": "malware-035-3b1f4680",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970850.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970851.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970852.0,
+                    "data": {
+                        "entropy": 7.7388014313250135,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_95.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970853.0,
+                    "data": {
+                        "entropy": 7.921935462132729,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_174.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970854.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": false
+        },
+        {
+            "id": "malware-036-769293fa",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970860.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970861.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970862.0,
+                    "data": {
+                        "entropy": 7.961037515280932,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_85.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970863.0,
+                    "data": {
+                        "entropy": 7.9730599700836,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_121.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970864.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": false
+        },
+        {
+            "id": "malware-037-e93c0cf9",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970870.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970871.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970872.0,
+                    "data": {
+                        "entropy": 7.725277133643386,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_35.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970873.0,
+                    "data": {
+                        "entropy": 7.8108333014355615,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_162.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970874.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": false
+        },
+        {
+            "id": "malware-038-3560b9a8",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970880.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970881.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970882.0,
+                    "data": {
+                        "entropy": 7.517046338024249,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_61.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970883.0,
+                    "data": {
+                        "entropy": 7.926365642220119,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_134.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970884.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": false
+        },
+        {
+            "id": "malware-039-5d2724c9",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970890.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970891.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970892.0,
+                    "data": {
+                        "entropy": 7.532356865441031,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_71.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970893.0,
+                    "data": {
+                        "entropy": 7.948071089310609,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_156.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970894.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": false
+        },
+        {
+            "id": "malware-040-088ab536",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970900.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970901.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970902.0,
+                    "data": {
+                        "entropy": 7.817106624799377,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_77.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970903.0,
+                    "data": {
+                        "entropy": 7.981889060623272,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_164.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970904.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": false
+        },
+        {
+            "id": "malware-041-891d68f7",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970910.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970911.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970912.0,
+                    "data": {
+                        "entropy": 7.986719612791309,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_22.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970913.0,
+                    "data": {
+                        "entropy": 7.980745986755403,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_107.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970914.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": false
+        },
+        {
+            "id": "malware-042-cdf0169e",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970920.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970921.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970922.0,
+                    "data": {
+                        "entropy": 7.8088062040855695,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_26.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970923.0,
+                    "data": {
+                        "entropy": 7.815560665079244,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_189.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970924.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": false
+        },
+        {
+            "id": "malware-043-f0bf1382",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970930.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970931.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970932.0,
+                    "data": {
+                        "entropy": 7.975175142942201,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_78.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970933.0,
+                    "data": {
+                        "entropy": 7.90435870150309,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_123.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970934.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": false
+        },
+        {
+            "id": "malware-044-3cbeca68",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970940.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970941.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970942.0,
+                    "data": {
+                        "entropy": 7.630537614183761,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_29.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970943.0,
+                    "data": {
+                        "entropy": 7.814369491782021,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_122.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970944.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": false
+        },
+        {
+            "id": "malware-045-b5f788ba",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970950.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970951.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970952.0,
+                    "data": {
+                        "entropy": 7.699856548756726,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_93.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970953.0,
+                    "data": {
+                        "entropy": 7.981498460650517,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_149.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970954.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": false
+        },
+        {
+            "id": "malware-046-e6aeb68e",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970960.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970961.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970962.0,
+                    "data": {
+                        "entropy": 7.6096505234653735,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_9.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970963.0,
+                    "data": {
+                        "entropy": 7.962705410703277,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_178.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970964.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": false
+        },
+        {
+            "id": "malware-047-258ca91a",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970970.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970971.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970972.0,
+                    "data": {
+                        "entropy": 7.644144679928269,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_64.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970973.0,
+                    "data": {
+                        "entropy": 7.876210986640639,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_187.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970974.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": false
+        },
+        {
+            "id": "malware-048-a8233b6e",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970980.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970981.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970982.0,
+                    "data": {
+                        "entropy": 7.706549140643694,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_2.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970983.0,
+                    "data": {
+                        "entropy": 7.905813138400664,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_125.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970984.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": false
+        },
+        {
+            "id": "malware-049-eaa259de",
+            "ground_truth": "MALICIOUS",
+            "true_attck_techniques": [
+                "T1490",
+                "T1486"
+            ],
+            "events": [
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970990.0,
+                    "data": {
+                        "command_line": "vssadmin.exe Delete Shadows /All /Quiet"
+                    }
+                },
+                {
+                    "event_type": "process_creation",
+                    "timestamp": 1723970991.0,
+                    "data": {
+                        "command_line": "cmd.exe /c bcdedit /set {default} recoveryenabled No"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970992.0,
+                    "data": {
+                        "entropy": 7.581303832791272,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_68.enc"
+                    }
+                },
+                {
+                    "event_type": "filesystem_entropy",
+                    "timestamp": 1723970993.0,
+                    "data": {
+                        "entropy": 7.854270239857628,
+                        "file_path": "C:\\Users\\admin\\Documents\\file_143.enc"
+                    }
+                },
+                {
+                    "event_type": "dns_query",
+                    "timestamp": 1723970994.0,
+                    "data": {
+                        "query": "malicious-c2-domain.xyz"
+                    }
+                }
+            ],
+            "telemetry_tampered_ground_truth": false
+        }
+    ]
+}
