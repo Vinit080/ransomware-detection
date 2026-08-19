@@ -25,11 +25,9 @@ In a controlled benchmark using a synthetic dataset of 100 behavioral traces (50
 * **Python 3.12+** & **Node.js**
 
 ### Quick Start
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Vinit080/ransomware-detection.git
-   cd ransomware-detection
-   ```
+1. Download the repository from the anonymous link:
+   `https://anonymous.4open.science/r/ransomware-detection-8432`
+   (Unzip and navigate into the `ransomware-detection` directory).
 2. Start the Ollama server:
    ```powershell
    .\start_ollama.ps1
