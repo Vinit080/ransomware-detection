@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "benign-000-5844a2a6",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 5.241870880126953,
+    "cpu_overhead": 0,
+    "mem_overhead": 0.29296875
+  },
+  {
+    "id": "benign-001-4a6638c3",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 0.9999275207519531,
+    "cpu_overhead": 0,
+    "mem_overhead": 0.0078125
+  },
+  {
+    "id": "benign-002-7c1f91ba",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 0.9999275207519531,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "benign-003-3866e209",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.9998550415039062,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "benign-004-e61e8179",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 0.9987354278564453,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "benign-005-aa7b0a38",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 2.0003318786621094,
+    "cpu_overhead": 0,
+    "mem_overhead": 0.00390625
+  },
+  {
+    "id": "benign-006-04977465",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 0.9999275207519531,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "benign-007-bb10a82d",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0001659393310547,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "benign-008-f5a4dccd",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 0.9999275207519531,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "benign-009-86fa40b0",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0001659393310547,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "benign-010-4446b70c",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 2.000093460083008,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "benign-011-f790a8aa",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.9998550415039062,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "benign-012-e7e13369",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.9998550415039062,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "benign-013-7702c616",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 0.9999275207519531,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "benign-014-ec0e523f",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0001659393310547,
+    "cpu_overhead": 0,
+    "mem_overhead": 0.00390625
+  },
+  {
+    "id": "benign-015-7fce13a5",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 0.9999275207519531,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "benign-016-15cbf0c0",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 0.9999275207519531,
+    "cpu_overhead": 0,
+    "mem_overhead": 0.00390625
+  },
+  {
+    "id": "benign-017-29596971",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 0.9999275207519531,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "benign-018-e2e2cba2",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0001659393310547,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "benign-019-a24c8a81",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0004043579101562,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "benign-020-968e6424",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.9996166229248047,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "benign-021-1487bf46",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0001659393310547,
+    "cpu_overhead": 0,
+    "mem_overhead": 0.02734375
+  },
+  {
+    "id": "benign-022-96927807",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 0.9999275207519531,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "benign-023-28d6287d",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 0.9996891021728516,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "benign-024-96c42f1d",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 4.002809524536133,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "benign-025-b486542a",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 0.9996891021728516,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "benign-026-1aa143a7",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0006427764892578,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "benign-027-ec580995",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0035037994384766,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "benign-028-2186ad84",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.020193099975586,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "benign-029-dc639609",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0004043579101562,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "benign-030-619bc50e",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.4352798461914062,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "benign-031-7862152b",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0025501251220703,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "benign-032-6fc5f4a5",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0013580322265625,
+    "cpu_overhead": 0,
+    "mem_overhead": 0.0078125
+  },
+  {
+    "id": "benign-033-8474dabb",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0006427764892578,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "benign-034-e4d1d2ff",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0008811950683594,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "benign-035-790d713c",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0006427764892578,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "benign-036-c005a017",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0001659393310547,
+    "cpu_overhead": 0,
+    "mem_overhead": 0.00390625
+  },
+  {
+    "id": "benign-037-246ef562",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0004043579101562,
+    "cpu_overhead": 0,
+    "mem_overhead": 0.00390625
+  },
+  {
+    "id": "benign-038-8f324b70",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.009225845336914,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "benign-039-f4c8d532",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 2.0110607147216797,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "benign-040-0a81812e",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 0.9982585906982422,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "benign-041-5153d828",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0094642639160156,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "benign-042-f285b381",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.285552978515625,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "benign-043-028b940a",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0001659393310547,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "benign-044-b90ecbd7",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.2478828430175781,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "benign-045-85611fc6",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 2.424001693725586,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "benign-046-c1e68ded",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0001659393310547,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "benign-047-b07bb4de",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0001659393310547,
+    "cpu_overhead": 0,
+    "mem_overhead": 0.08203125
+  },
+  {
+    "id": "benign-048-d58d6673",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0004043579101562,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "benign-049-1f63cb71",
+    "ground_truth": "BENIGN",
+    "verdict": "BENIGN",
+    "true_attck_techniques": [],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0008811950683594,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "malware-000-474d1813",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 0.9996891021728516,
+    "cpu_overhead": 0,
+    "mem_overhead": 0.00390625
+  },
+  {
+    "id": "malware-001-e0bc7e24",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 0.9999275207519531,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "malware-002-b575d6c2",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 2.0003318786621094,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "malware-003-dcf6e4b0",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0008811950683594,
+    "cpu_overhead": 0,
+    "mem_overhead": 0.00390625
+  },
+  {
+    "id": "malware-004-795abcda",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0001659393310547,
+    "cpu_overhead": 0,
+    "mem_overhead": 0.03125
+  },
+  {
+    "id": "malware-005-dd6779bd",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.9998550415039062,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "malware-006-c3cbca81",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 2.000093460083008,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "malware-007-589e2930",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0001659393310547,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "malware-008-e8cce4b8",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0001659393310547,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "malware-009-ad7858eb",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0001659393310547,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "malware-010-cddd198e",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.4274120330810547,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "malware-011-bdd282ab",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.9991397857666016,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "malware-012-ccba9da9",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0004043579101562,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "malware-013-6c6752e0",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0001659393310547,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "malware-014-2795f330",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0004043579101562,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "malware-015-ec5ee5ca",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0008811950683594,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "malware-016-9ecf5c64",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0006427764892578,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "malware-017-1f1ecab7",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.9996166229248047,
+    "cpu_overhead": 0,
+    "mem_overhead": 0.00390625
+  },
+  {
+    "id": "malware-018-a826a058",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0004043579101562,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "malware-019-588fd0d0",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 0.9999275207519531,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "malware-020-c75609cc",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.5621185302734375,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "malware-021-db9cabf4",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0001659393310547,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "malware-022-880ca420",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 0.99945068359375,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "malware-023-12e55c24",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 0.99945068359375,
+    "cpu_overhead": 0,
+    "mem_overhead": 0.00390625
+  },
+  {
+    "id": "malware-024-47996aa6",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.9974708557128906,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "malware-025-b1171801",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0006427764892578,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "malware-026-019a4000",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 0.9999275207519531,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "malware-027-d1effad8",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0001659393310547,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "malware-028-a17edbd6",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0001659393310547,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "malware-029-76de06e1",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 0.9999275207519531,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "malware-030-5efdb5a7",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0001659393310547,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "malware-031-feedac6c",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 2.002716064453125,
+    "cpu_overhead": 0,
+    "mem_overhead": 0.03125
+  },
+  {
+    "id": "malware-032-be72ccdf",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0080337524414062,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "malware-033-be0e3a62",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 0.9996891021728516,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "malware-034-2734fe7f",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 0.9992122650146484,
+    "cpu_overhead": 0,
+    "mem_overhead": 0.00390625
+  },
+  {
+    "id": "malware-035-9a7cea07",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 0.9996891021728516,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "malware-036-d8856551",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 0.99945068359375,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "malware-037-085fc6a0",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 2.035379409790039,
+    "cpu_overhead": 0,
+    "mem_overhead": 0.02734375
+  },
+  {
+    "id": "malware-038-f2f27a20",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.9986629486083984,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "malware-039-2497fbe7",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 0.9648799896240234,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "malware-040-f5a4841a",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0044574737548828,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "malware-041-b281e78d",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0068416595458984,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "malware-042-596e4baa",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 1.0159015655517578,
+    "cpu_overhead": 0,
+    "mem_overhead": 0.00390625
+  },
+  {
+    "id": "malware-043-cc9aa170",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 0.99945068359375,
+    "cpu_overhead": 0,
+    "mem_overhead": 0.078125
+  },
+  {
+    "id": "malware-044-0901ee23",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 2.0041465759277344,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "malware-045-1d205391",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 0.9996891021728516,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "malware-046-32fabd83",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 0.9996891021728516,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "malware-047-43a5d1b7",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 0.9999275207519531,
+    "cpu_overhead": 0,
+    "mem_overhead": 0.00390625
+  },
+  {
+    "id": "malware-048-a04ba16c",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 3.2372474670410156,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  },
+  {
+    "id": "malware-049-72756c3e",
+    "ground_truth": "MALICIOUS",
+    "verdict": "MALICIOUS",
+    "true_attck_techniques": [
+      "T1490",
+      "T1486"
+    ],
+    "predicted_attck_techniques": [],
+    "telemetry_tampered_ground_truth": false,
+    "telemetry_tampered": false,
+    "latency_ms": 2.0012855529785156,
+    "cpu_overhead": 0,
+    "mem_overhead": 0
+  }
+]
