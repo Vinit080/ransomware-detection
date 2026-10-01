@@ -63,9 +63,10 @@ class SandboxOrchestrator:
             # 5. Start telemetry collectors (Stub for Phase 5)
             logger.info(f"Starting host-side telemetry listener for run {run_id}")
 
-            # 6. Start out-of-band network monitoring (Stub for Phase 6)
+            # 6. Start out-of-band network monitoring
             logger.info(f"Starting network monitor agent on host for VM {run.vm_id}")
-            # subprocess.Popen(["python", "agents/host_side/network_monitor.py", "--url", "http://localhost:8000/api/v1/telemetry/ingest", "--run-id", run_id])
+            import subprocess
+            net_monitor_process = subprocess.Popen(["python", "agents/host_side/network_monitor.py", "--url", "http://localhost:8000/api/v1/telemetry/ingest", "--run-id", run_id])
 
             # 7. Start optional controlled vulnerability simulation (Stub for Phase 10)
 
@@ -81,9 +82,15 @@ class SandboxOrchestrator:
 
             # 10. Stream telemetry (Stub for Phase 5 & 8)
             # 11. Stop execution based on policy or timeout
+            import time
+            time.sleep(10) # Simulate runtime
             self.hypervisor.stop_vm(run.vm_id)
 
             # 12. Flush telemetry
+            if net_monitor_process:
+                net_monitor_process.terminate()
+                net_monitor_process.wait(timeout=5)
+            
             # 13. Verify cryptographic integrity (Stub for Phase 8)
             
             run.status = "ANALYZING"

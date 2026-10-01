@@ -60,6 +60,7 @@ class GenAIEngine:
             "verdict": "MALICIOUS" | "BENIGN",
             "confidence": <float 0.0 to 1.0>,
             "reasoning": "Detailed technical explanation...",
+            "telemetry_tampered": <boolean>,
             "attck_mappings": [
                 {
                     "technique_id": "T1486",
